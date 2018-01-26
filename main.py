@@ -64,7 +64,7 @@ from API_VUNGLE import *
 # initiale ALL API
 '''
 API_A = API_APPLOVIN()
-API_A.api_key = "ppoUgJZp6OK12LJLK5f3IvDsgKXGlUoTIa1zuam_-501RKMnP1qix2ZbM5t6afeuEgr7Gb7Eh8F7SbutdiaTl8"
+API_A.api_key = "YOUR_API_KEY"
 '''
 
 API_B = API_VUNGLE(api_key="YOUR_API_KEY", 
