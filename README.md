@@ -1,4 +1,4 @@
-# VUNGLE_API AND VUNGLE PYTHON CALL
+# VUNGLE_API AND APPLOVIN PYTHON CALL
 VUNGLE & APPLOVIN api for python extract data in html table test 1
 
 APPLOVIN  
